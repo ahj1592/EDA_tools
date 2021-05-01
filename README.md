@@ -1,6 +1,6 @@
 # EDA_tools
 EDA modules for CSV-like files
-This script supports countplots, displots and heatmap.
+This script supports countplots, displots and heatmap.\
 I apply the seaborn.displots because seaborn.distplot will be deprecated
 
 ## Quick Start
